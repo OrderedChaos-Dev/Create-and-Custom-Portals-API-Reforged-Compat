@@ -1,7 +1,7 @@
 modLoader="javafml"
 loaderVersion="${loader_version_range}"
 license="${mod_license}"
-#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+issueTrackerURL="https://github.com/OrderedChaos-Dev/Create-and-Custom-Portals-API-Reforged-Compat/issues"
 [[mods]]
 
 modId="${mod_id}"
